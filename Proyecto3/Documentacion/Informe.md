@@ -20,7 +20,7 @@ Adicionalmente, el proyecto cuenta con scirpts para compilar y ejecutar las herr
 ## 3. Estructura de archivos 
 El proyecto se organiza de la siguiente manera
 ```bash
-Proyecto6/
+Proyecto3/
 ├── Documentacion/
 ├── ensamblador/
 ├── desensamblador/
